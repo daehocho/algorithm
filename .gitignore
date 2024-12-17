@@ -1,2 +1,4 @@
 .DS_Store
 *.xcplayground
+*.xcuserstate
+*.xcworkspacedata
